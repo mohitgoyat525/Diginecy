@@ -1,0 +1,38 @@
+@import url(./root.css);
+* {
+  text-decoration: none !important;
+  list-style-type: none !important;
+}
+.fs-39 {
+  font-size: var(--fs-39);
+}
+.fs-16 {
+  font-size: var(--fs16-);
+}
+.fs-12 {
+  font-size: var(--fs-12);
+}
+.fs-10 {
+  font-size: var(--fs-10);
+}
+.fs-20 {
+  font-size: var(--fs-20);
+}
+.fs-48 {
+  font-size: var(--fs-48);
+}
+.fs-25 {
+  font-size: var(--fs-25);
+}
+.bg-color {
+  background-color: var(--bg-color);
+}
+.dark-grey {
+  color: var(--dark-grey);
+}
+.oranange {
+  color: var(--oranange);
+}
+.light-grey {
+  color: var(--light-grey);
+}
