@@ -166,6 +166,7 @@ border-radius: 100px;
     right: -100%;
     transition: all 300ms linear;
     background: var(--bg-color);
+    height: 100vh;
   }
   .show-nav {
     right: 0 !important;
